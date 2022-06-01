@@ -1,4 +1,4 @@
-# Flycast-Xbox-Builds
+# Flycast-Libretro-Xbox-Builds
 This repository just contains libretro builds of [Flycast](https://github.com/flyinghead/flycast) that only have DirectX 11 enabled. As the name of the repo implies, these are primarily intended to be used with Xbox consoles, but can also be used on Windows devices with DX11 installed.
 
 All credit goes to [flyinghead](https://github.com/flyinghead) for this awesome emulator.
